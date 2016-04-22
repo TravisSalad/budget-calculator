@@ -1,1 +1,0 @@
-"use strict";console.log("'Allo 'Allo!"),$(function(){$("#datepicker").datepicker()}),$(function(){$("#datepickerTwo").datepicker()});
